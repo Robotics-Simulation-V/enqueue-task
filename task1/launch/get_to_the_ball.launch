@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="task1" type="rosOpenCV" name="visual333" output="screen"/>
+  <node pkg="task1" type="GoForward" name="move" output="screen"/>
+</launch>

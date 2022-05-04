@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="task4" type="task4" name="multi_robots_navigation" />
+</launch>

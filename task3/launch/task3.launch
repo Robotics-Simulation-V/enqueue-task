@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="task3" type="followline" name="followline1" output="screen"/>
+  <node pkg="task3" type="command_vel" name="command_vel1" output="screen"/>
+</launch>

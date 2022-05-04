@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="task2" type="to_designated_goal" name="to_goal" />
+</launch>
